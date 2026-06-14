@@ -1,0 +1,6 @@
+{
+  "name": "Find Solid Lanka",
+  "description": "Premium fire rated doors, timber doors, ironmongery, and glass solutions for leading construction projects in Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
